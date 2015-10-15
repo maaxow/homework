@@ -2,7 +2,7 @@
 
 cd C:\Users\rosemx\Documents\homework\homework
 
-echo Last commit : 
+echo Last commit :  
 git log | head -n 5
 
 choice /C YN /M "New commit ?"
