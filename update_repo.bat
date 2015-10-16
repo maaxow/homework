@@ -26,7 +26,7 @@ IF errorlevel 2 goto exit
 IF errorlevel 1 goto push
 
 :push
-SLEEP 1
+SLEEP 2
 git push origin master
 goto exit
 
