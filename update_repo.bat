@@ -2,6 +2,8 @@
 
 cd C:\Users\rosemx\Documents\homework\homework
 
+git status
+
 echo Last commit :  
 git log | head -n 5
 
