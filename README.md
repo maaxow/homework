@@ -1,3 +1,3 @@
 # homework
 
-a file with my work by week
+Folder for all my homework. Primary for the end of my school year.
